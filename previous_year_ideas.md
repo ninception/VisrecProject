@@ -25,7 +25,6 @@ The tentative list of project topics is as follows:
 
 -----
 -----
------
 
 ## Projects 2014
 
