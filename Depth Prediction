@@ -1,4 +1,8 @@
-Assumption: Depth Perception and Segmentation aid each other.
+(Asim)
+Hypothesis: 
+Depth Perception and Segmentation aid each other. 
+For dense segmentation depth cues are important.
+For dense hierarchical segmentation, depth cues may help to generate segmentation mask for segmenation at the next level.
 
 Aim: 
 Try to design a cooperative procedure between depth prediction and image segmentation. End goal should be that predicted
@@ -11,3 +15,6 @@ Use cooperation between neighnouring windows for global continuity and smoothnes
 particular foreground object, construct a hierarchical segmentation mask for the next level.
 
 
+
+
+(Ninad)
