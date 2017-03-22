@@ -1,0 +1,3 @@
+We need Sharp Segmentation masks with fine object boundaries. Look at FB Deep Mask for this.
+
+Shadows are a major cue in depth difference.
