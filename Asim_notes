@@ -1,6 +1,10 @@
 Target - Obtain a high feature depth map of an indoor/outdoor scene which can help us understand the 3D 
 state of the image environment.
 
+Shortcomings of methods-
+1. Far Off distance depth maps are poorly predicted.
+2. Sharp boundaries are not visible in predicted depth maps.
+
 We need Sharp Segmentation masks with fine object boundaries. Look at FB Deep Mask for this.
 
 ## Shadows are a major cue in depth perception.
@@ -13,7 +17,7 @@ This first level of segmentation will give us semantic objects in an image.
 However we still need to explicitly define/realize exactly what kind of segmentation will help us to predict accurate depth 
 maps.
 
-One possibilities is:
+One possibility is:
 1. Inspite of semantic segmentation, we look at segmenting objects with geometrical "connectivity". (There is still a 
 corelation with semantic segmentation, but there is a difference due to the data driven definition of semantic classes!).
 (There must be a classical/modern work on this problem. Look at Geometry community for leads).
