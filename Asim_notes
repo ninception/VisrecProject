@@ -1,3 +1,41 @@
+Target - Obtain a high feature depth map of an indoor/outdoor scene which can help us understand the 3D 
+state of the image environment.
+
 We need Sharp Segmentation masks with fine object boundaries. Look at FB Deep Mask for this.
 
-Shadows are a major cue in depth difference.
+## Shadows are a major cue in depth perception.
+## ViewPoint information can also be a cue. Figure out how to use viewpoint information.
+
+Using Deep Mask and Sharp Mask we will be able to obtain high-fidelity boundaries with sharp delineations. 
+
+This first level of segmentation will give us semantic objects in an image. 
+
+However we still need to explicitly define/realize exactly what kind of segmentation will help us to predict accurate depth 
+maps.
+
+One possibilities is:
+1. Inspite of semantic segmentation, we look at segmenting objects with geometrical "connectivity". (There is still a 
+corelation with semantic segmentation, but there is a difference due to the data driven definition of semantic classes!).
+(There must be a classical/modern work on this problem. Look at Geometry community for leads).
+-
+
+* http://digitalassets.lib.berkeley.edu/techreports/ucb/text/EECS-2013-132.pdf
+* http://www.cc.ac.cn/2011researchreport/201102.pdf
+* http://www.cs.unc.edu/techreports/92-039.pdf
+
+*http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.323.9299&rep=rep1&type=pdf * (Look at this paper)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
