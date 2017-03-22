@@ -1,7 +1,3 @@
-# Visual Recognition Project
-Dense heirarchical segmentation using depth maps (which themselves were predicted1)
+#CS698O Visual Recognition Project
 
-Tasks:
-
-- Clearly write down the entire direction and scope of the project.
-- Search for and prepare an appropriate dataset.
+##This is the repository for Visual Recognition Course Project.
