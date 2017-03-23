@@ -12,17 +12,19 @@ We need Sharp Segmentation masks with fine object boundaries. Look at FB Deep Ma
 
 Using Deep Mask and Sharp Mask we will be able to obtain high-fidelity boundaries with sharp delineations. 
 
-This first level of segmentation will give us semantic objects in an image. 
+This first level of segmentation will give us semantic objects in an image. This semantic segmentation will be useful in 
+depth prediction as we want to improve the predicted depth around objects, and make boundaries of objects perceptible from 
+depth images too.
 
 However we still need to explicitly define/realize exactly what kind of segmentation will help us to predict accurate depth 
-maps.
+maps. After the first level semantic segmentation we can go down this path of "geometrical segmentation" for improving the 
+"featureness" of the predicted depth map.
 
 One possibility is:
-1. Inspite of semantic segmentation, we look at segmenting objects with geometrical "connectivity". (There is still a 
+1. Inspite of semantic segmentation, we look at segmenting objects with geometrical "connectivity".(Quite Vague as of now) (There is still a 
 corelation with semantic segmentation, but there is a difference due to the data driven definition of semantic classes!).
-(There must be a classical/modern work on this problem. Look at Geometry community for leads).
+(There must be a classical/modern work on this problem. Look at Geometry Processing community for leads).
 -
-
 * http://digitalassets.lib.berkeley.edu/techreports/ucb/text/EECS-2013-132.pdf
 * http://www.cc.ac.cn/2011researchreport/201102.pdf
 * http://www.cs.unc.edu/techreports/92-039.pdf
