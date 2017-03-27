@@ -4,6 +4,7 @@
 
 [Analyzing Modular CNN Architectures for Joint Depth Prediction and Semantic Segmentation](https://arxiv.org/abs/1702.08009)
 
+[Dense Monocular Depth Estimation in Complex Dynamic Scenes](https://web.stanford.edu/~cqf/papers/Dense_Monocular_Depth_CVPR2016.pdf)
 ---
 
 [ucl other paper - diff](http://visual.cs.ucl.ac.uk/pubs/depthPrediction/depth_prediction_main.pdf
