@@ -32,9 +32,15 @@ corelation with semantic segmentation, but there is a difference due to the data
 *http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.323.9299&rep=rep1&type=pdf * (Look at this paper)
 
 
+## Realise it is not possible to obtain accurate distances in the depth maps with a monocular image. 
 
+Formalise the iterative improvement scheme. 
+Also try to formalise the idea of "depth contours" of the image.
+It is
 
-
+(Below Ideas are trying to utilize the frontiers of deep Learning. However our main aim should be able to integrate a Hierarchical Segmentation approach for this task.)
+## Look at GAN for this task too.
+## Look at ResNets too.
 
 
 
