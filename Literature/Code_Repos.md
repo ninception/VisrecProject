@@ -4,5 +4,5 @@
 https://github.com/ayanc/mdepth
 
 
-[Multi Scale , NIPS] (https://github.com/hjimce/Depth-Map-Prediction) 
+[Multi Scale , NIPS-14](https://github.com/hjimce/Depth-Map-Prediction) 
 
