@@ -1,18 +1,27 @@
-[Wang_Towards_Unified_Depth_2015_CVPR](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Towards_Unified_Depth_2015_CVPR_paper.pdf)
+## Monocular (single-view) depth estimation
+
+### 4 April
+
+
+
+---
 
 [NYU depth](https://www.cs.nyu.edu/~deigen/depth/depth_nips14.pdf)
 
-[Analyzing Modular CNN Architectures for Joint Depth Prediction and Semantic Segmentation](https://arxiv.org/abs/1702.08009)
-
 [Dense Monocular Depth Estimation in Complex Dynamic Scenes](https://web.stanford.edu/~cqf/papers/Dense_Monocular_Depth_CVPR2016.pdf)
+
 ---
 
-[ucl other paper - diff](http://visual.cs.ucl.ac.uk/pubs/depthPrediction/depth_prediction_main.pdf
+[UCL other paper - diff](http://visual.cs.ucl.ac.uk/pubs/depthPrediction/depth_prediction_main.pdf
 
 [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](https://arxiv.org/abs/1406.2283)
 
 
-## Hierarchical Image Segmentation 
+## Combining Hierarchical Image Segmentation 
+
+[Wang_Towards_Unified_Depth_2015_CVPR](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Towards_Unified_Depth_2015_CVPR_paper.pdf)
+
+[Analyzing Modular CNN Architectures for Joint Depth Prediction and Semantic Segmentation](https://arxiv.org/abs/1702.08009)
 
 [Hierarchical Image Segmentation based on Observation Scale](https://hal.archives-ouvertes.fr/hal-00789387/document)
 
