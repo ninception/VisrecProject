@@ -54,6 +54,7 @@ It is
 
     Hierarchical Segmentation Approach
 
+** Multi scale deep netowrks , couple them with multi scale (depth - edge) information
 
 
 
