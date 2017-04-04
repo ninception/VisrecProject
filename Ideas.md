@@ -1,6 +1,8 @@
 - Study Loss functions of Various Papers.
-- Study works on Depth Edges (Occlusion Edges).
-- Experiment: Loss function at the coarser level with respect to Blur of GT depth image.
+- Study works on Depth Edges (Occlusion Edges). For integrating them explicitly into the pipeline at multiple scales.
+- Experiment: Loss function at the coarser level with respect to Blur of GT depth image.  
+- Experiment: Try to find Depth/Occlusion edges from GT depth map.
+
 
 
 ---
