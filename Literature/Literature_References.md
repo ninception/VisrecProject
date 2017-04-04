@@ -36,6 +36,8 @@
 
 - [Dense Monocular Depth Estimation in Complex Dynamic Scenes](https://web.stanford.edu/~cqf/papers/Dense_Monocular_Depth_CVPR2016.pdf)
 
+- [(old)Learning Depth from Single Monocular Images](https://papers.nips.cc/paper/2921-learning-depth-from-single-monocular-images)
+
 ---
 
 ## Segmentation and Depth Estimation (later/abandon)
