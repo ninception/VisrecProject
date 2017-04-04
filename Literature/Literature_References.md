@@ -10,6 +10,7 @@
 
 [Predicting Depth, Surface Normals and Semantic Labels With a Common Multi-Scale Convolutional Architecture -- CVPR 2015](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Eigen_Predicting_Depth_Surface_ICCV_2015_paper.html)
 
+[Which Edges Matter](http://www.cs.cmu.edu/~aayushb/pubs/edges.pdf)
 ---
 
 *Fayao Liu, Chunhua Shen, Guosheng Lin*
