@@ -12,6 +12,8 @@
 
 [Which Edges Matter](http://www.cs.cmu.edu/~aayushb/pubs/edges.pdf)
 
+[Single-Image Depth Perception in the Wild -- NIPS 16](https://papers.nips.cc/paper/6489-single-image-depth-perception-in-the-wild)
+
 ---
 
 *Fayao Liu, Chunhua Shen, Guosheng Lin*
