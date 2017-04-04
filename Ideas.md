@@ -1,4 +1,11 @@
-## (Asim)
+- Study Loss functions of Various Papers.
+- Study works on Depth Edges (Occlusion Edges).
+- Experiment: Loss function at the coarser level with respect to Blur of GT depth image.
+
+
+---
+
+# OLD
 
 ### Hypothesis: 
 Depth Perception and Segmentation aid each other. 
@@ -17,5 +24,3 @@ particular foreground object, construct a hierarchical segmentation mask for the
 
 
 
-
-## (Ninad)
