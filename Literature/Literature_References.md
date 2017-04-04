@@ -38,7 +38,7 @@
 
 ---
 
-## Combining Segmentation and Depth Estimation (Not following up -- abandon ship ... do later)
+## Segmentation and Depth Estimation (later/abandon)
 
 [Wang_Towards_Unified_Depth_2015_CVPR](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Towards_Unified_Depth_2015_CVPR_paper.pdf)
 
