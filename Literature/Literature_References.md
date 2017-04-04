@@ -6,6 +6,8 @@
 
 [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network -- NIPS 2014](http://papers.nips.cc/paper/5539-depth-map-prediction-from-a-single-image-using-a-multi-scale-deep-network)
 
+[NYU depth project page (Eigen-nips14)](https://www.cs.nyu.edu/~deigen/depth/)
+
 [Predicting Depth, Surface Normals and Semantic Labels With a Common Multi-Scale Convolutional Architecture -- CVPR 2015](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Eigen_Predicting_Depth_Surface_ICCV_2015_paper.html)
 
 ---
@@ -18,30 +20,25 @@
 
 ---
 
+*Others*
+
 [Semi-Supervised Deep Learning for Monocular Depth Map Prediction -- arxiv17](https://arxiv.org/abs/1702.02706)
 
 [Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue -- ECCV 2016](http://link.springer.com/chapter/10.1007/978-3-319-46484-8_45)
 
 [Monocular Depth Estimation of Outdoor Scenes Using RGB-D Datasets -- ACCV 2016](http://link.springer.com/chapter/10.1007/978-3-319-54427-4_7)
 
-[Unsupervised Monocular Depth Estimation with Left-Right Consistency -- arxiv16](https://arxiv.org/abs/1609.03677)
+*Misc*
 
-[Pulling Things out of Perspective](http://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Ladicky_Pulling_Things_out_2014_CVPR_paper.html)
+- [Unsupervised Monocular Depth Estimation with Left-Right Consistency -- arxiv16](https://arxiv.org/abs/1609.03677)
 
----
+- [Pulling Things out of Perspective](http://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Ladicky_Pulling_Things_out_2014_CVPR_paper.html)
 
-[NYU depth](https://www.cs.nyu.edu/~deigen/depth/depth_nips14.pdf)
-
-[Dense Monocular Depth Estimation in Complex Dynamic Scenes](https://web.stanford.edu/~cqf/papers/Dense_Monocular_Depth_CVPR2016.pdf)
+- [Dense Monocular Depth Estimation in Complex Dynamic Scenes](https://web.stanford.edu/~cqf/papers/Dense_Monocular_Depth_CVPR2016.pdf)
 
 ---
 
-[UCL other paper - diff](http://visual.cs.ucl.ac.uk/pubs/depthPrediction/depth_prediction_main.pdf)
-
-[Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](https://arxiv.org/abs/1406.2283)
-
-
-## Combining Segmentation and Depth Estimation
+## Combining Segmentation and Depth Estimation (Not following up -- abandon ship ... do later)
 
 [Wang_Towards_Unified_Depth_2015_CVPR](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wang_Towards_Unified_Depth_2015_CVPR_paper.pdf)
 
