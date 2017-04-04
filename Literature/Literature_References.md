@@ -2,8 +2,23 @@
 
 ### 4 April
 
+[Depth Map Prediction from a Single Image using a Multi-Scale Deep Network -- NIPS 2014](http://papers.nips.cc/paper/5539-depth-map-prediction-from-a-single-image-using-a-multi-scale-deep-network)
+
+[Predicting Depth, Surface Normals and Semantic Labels With a Common Multi-Scale Convolutional Architecture -- CVPR 2015](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Eigen_Predicting_Depth_Surface_ICCV_2015_paper.html)
+
+---
+
+[Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields](http://ieeexplore.ieee.org/abstract/document/7346484/)
+
+[Deep Convolutional Neural Fields for Depth Estimation From a Single Image](http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Liu_Deep_Convolutional_Neural_2015_CVPR_paper.html)
+
+---
+
+[Semi-Supervised Deep Learning for Monocular Depth Map Prediction -- arxiv17](https://arxiv.org/abs/1702.02706)
 
 
+
+[]()
 ---
 
 [NYU depth](https://www.cs.nyu.edu/~deigen/depth/depth_nips14.pdf)
