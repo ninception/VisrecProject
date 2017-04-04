@@ -44,6 +44,16 @@ It is
 
 
 
+---
+
+## Approaches
+
+*Few approaches which need to be thought about:*
+
+    Sliding Window Approach
+
+    Hierarchical Segmentation Approach
+
 
 
 
