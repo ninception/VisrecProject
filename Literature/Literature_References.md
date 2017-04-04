@@ -2,11 +2,15 @@
 
 ### 4 April
 
+*David Eigen, Rob Fergus*
+
 [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network -- NIPS 2014](http://papers.nips.cc/paper/5539-depth-map-prediction-from-a-single-image-using-a-multi-scale-deep-network)
 
 [Predicting Depth, Surface Normals and Semantic Labels With a Common Multi-Scale Convolutional Architecture -- CVPR 2015](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Eigen_Predicting_Depth_Surface_ICCV_2015_paper.html)
 
 ---
+
+*Fayao Liu, Chunhua Shen, Guosheng Lin*
 
 [Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields](http://ieeexplore.ieee.org/abstract/document/7346484/)
 
