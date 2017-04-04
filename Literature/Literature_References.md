@@ -14,6 +14,8 @@
 
 [Single-Image Depth Perception in the Wild -- NIPS 16](https://papers.nips.cc/paper/6489-single-image-depth-perception-in-the-wild)
 
+[Zoran- Learning Ordinal Relationships for Mid-Level Vision](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Zoran_Learning_Ordinal_Relationships_ICCV_2015_paper.html)
+
 ---
 
 *Fayao Liu, Chunhua Shen, Guosheng Lin*
