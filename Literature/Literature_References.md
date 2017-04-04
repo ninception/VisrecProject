@@ -36,7 +36,7 @@
 
 ---
 
-[UCL other paper - diff](http://visual.cs.ucl.ac.uk/pubs/depthPrediction/depth_prediction_main.pdf
+[UCL other paper - diff](http://visual.cs.ucl.ac.uk/pubs/depthPrediction/depth_prediction_main.pdf)
 
 [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network](https://arxiv.org/abs/1406.2283)
 
