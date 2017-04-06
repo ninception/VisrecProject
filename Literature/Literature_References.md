@@ -14,6 +14,8 @@
 
 *State of the art*
 
+[Task Specific Edge Detection -- CVPR 16](https://arxiv.org/pdf/1511.03328.pdf)
+
 [Which Edges Matter](http://www.cs.cmu.edu/~aayushb/pubs/edges.pdf)
 
 [Single-Image Depth Perception in the Wild -- NIPS 16](https://papers.nips.cc/paper/6489-single-image-depth-perception-in-the-wild)
