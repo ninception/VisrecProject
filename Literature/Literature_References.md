@@ -19,6 +19,7 @@
 [Which Edges Matter](http://www.cs.cmu.edu/~aayushb/pubs/edges.pdf)
 
 [Single-Image Depth Perception in the Wild -- NIPS 16](https://papers.nips.cc/paper/6489-single-image-depth-perception-in-the-wild)
+  - Has a huge annotated dataset to be used. Images are annotated with relative depths between random points. So one experiment that we can try out is to try to give weakly annotated (noisy) results for depth (given by some other FAST method) as the Ground truth for the method described in this paper -- just like our paper review assignment.
 
 [Zoran- Learning Ordinal Relationships for Mid-Level Vision](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Zoran_Learning_Ordinal_Relationships_ICCV_2015_paper.html)
 
