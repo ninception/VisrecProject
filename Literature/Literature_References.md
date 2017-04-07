@@ -41,6 +41,8 @@
 
 [Monocular Depth Estimation of Outdoor Scenes Using RGB-D Datasets -- ACCV 2016](http://link.springer.com/chapter/10.1007/978-3-319-54427-4_7)
 
+[Occlusion Edges](https://arxiv.org/pdf/1412.7007.pdf)
+
 *Misc*
 
 - [Unsupervised Monocular Depth Estimation with Left-Right Consistency -- arxiv16](https://arxiv.org/abs/1609.03677)
