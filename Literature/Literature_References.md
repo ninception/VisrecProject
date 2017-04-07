@@ -31,6 +31,8 @@
 
 [Deep Convolutional Neural Fields for Depth Estimation From a Single Image](http://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Liu_Deep_Convolutional_Neural_2015_CVPR_paper.html)
 
+[Efficient Piecewise Training of Deep Structured Models for Semantic Segmentation - cvpr2016](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lin_Efficient_Piecewise_Training_CVPR_2016_paper.html)
+
 ---
 
 *Others*
