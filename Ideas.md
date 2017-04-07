@@ -1,12 +1,14 @@
-Tasks
+## Tasks
 
 - Study Loss functions of Various Papers.
 - Study works on Depth Edges (Occlusion Edges). For integrating them explicitly into the pipeline at multiple scales.
 - Experiment: Loss function at the coarser level with respect to Blur of GT depth image.  
 - Experiment: Try to find Depth/Occlusion edges from GT depth map.
-- Identify the major contributions of each paper as in what they established firmly. Like the Wang et al paper established       that doing a joint learning of semantic class and depth image improves both of their performance. We want to have a list of     "proved" conclusions of each paper.
+- Identify the major contributions of each paper as in what they established firmly. Like the Wang et al paper established       that doing a joint learning of semantic class and depth image improves both of their performance. We want to have a list of "proved" conclusions of each paper. A type of broad survey of recent and state of the art works.
 
-# Ideas
+- Depth blurring
+
+## Ideas
 
 - Joint Learning has been shown to be a promising approach. We may probably need to redefine what needs to be jointly learnt.
 
