@@ -45,7 +45,17 @@
 
 ---
 
-*Others*
+## Classical Works
+
+[Project Page: Cornell, Saxena et al](http://www.cs.cornell.edu/~asaxena/learningdepth/)
+  
+  - Learning Depth from Single Monocular Images -- This Cornell project page has several papers related to this topic.
+  - Also contains some results
+  - Classical work can (maybe?) provide some important cues.
+
+---
+
+## Others
 
 [Semi-Supervised Deep Learning for Monocular Depth Map Prediction -- arxiv17](https://arxiv.org/abs/1702.02706)
 
