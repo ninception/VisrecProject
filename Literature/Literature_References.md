@@ -1,6 +1,6 @@
-## Monocular (single-view) depth estimation
+# Monocular (single-view) depth estimation
 
-*David Eigen, Rob Fergus : Multi scale and 3 tasks at the same time*
+## David Eigen, Rob Fergus : Multi scale and 3 tasks at the same time
 
 [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network -- NIPS 2014](http://papers.nips.cc/paper/5539-depth-map-prediction-from-a-single-image-using-a-multi-scale-deep-network)
   
@@ -16,7 +16,7 @@
 
 ---
 
-*State of the art : In the Wild *
+## State of the art : In the Wild
 
 [Single-Image Depth Perception in the Wild -- NIPS 16](https://papers.nips.cc/paper/6489-single-image-depth-perception-in-the-wild)
   - Has a huge annotated dataset to be used. Images are annotated with relative depths between random points. So one experiment that we can try out is to try to give weakly annotated (noisy) results for depth (given by some other FAST method) as the Ground truth for the method described in this paper -- just like our paper review assignment.
@@ -34,7 +34,8 @@
 
 ---
 
-*Fayao Liu, Chunhua Shen, Guosheng Lin*
+*This work can be surveyed in the end*
+## Fayao Liu, Chunhua Shen, Guosheng Lin
 
 [Learning Depth from Single Monocular Images Using Deep Convolutional Neural Fields](http://ieeexplore.ieee.org/abstract/document/7346484/)
 
