@@ -1,27 +1,36 @@
 ## Monocular (single-view) depth estimation
 
-### 4 April
-
-*David Eigen, Rob Fergus*
+*David Eigen, Rob Fergus : Multi scale and 3 tasks at the same time*
 
 [Depth Map Prediction from a Single Image using a Multi-Scale Deep Network -- NIPS 2014](http://papers.nips.cc/paper/5539-depth-map-prediction-from-a-single-image-using-a-multi-scale-deep-network)
+  
+  - [NYU depth project page (Eigen-nips14)](https://www.cs.nyu.edu/~deigen/depth/)
+  - [Code link -- Multi Scale , NIPS-14](https://github.com/hjimce/Depth-Map-Prediction)
 
-[NYU depth project page (Eigen-nips14)](https://www.cs.nyu.edu/~deigen/depth/)
 
-[Predicting Depth, Surface Normals and Semantic Labels With a Common Multi-Scale Convolutional Architecture -- CVPR 2015](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Eigen_Predicting_Depth_Surface_ICCV_2015_paper.html)
+*follow-up paper* 
+[Predicting Depth, Surface Normals and Semantic Labels With a Common Multi-Scale Convolutional Architecture -- ICCV 2015](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Eigen_Predicting_Depth_Surface_ICCV_2015_paper.html)
+
+  - [Project page: Predicting Depth, Surface Normals and Semantic Labels](http://www.cs.nyu.edu/~deigen/dnl/)
+  - *Also has links to code, trained models and other stuff*
 
 ---
 
-*State of the art*
-
-[Task Specific Edge Detection -- CVPR 16](https://arxiv.org/pdf/1511.03328.pdf)
-
-[Which Edges Matter](http://www.cs.cmu.edu/~aayushb/pubs/edges.pdf)
+*State of the art : In the Wild *
 
 [Single-Image Depth Perception in the Wild -- NIPS 16](https://papers.nips.cc/paper/6489-single-image-depth-perception-in-the-wild)
   - Has a huge annotated dataset to be used. Images are annotated with relative depths between random points. So one experiment that we can try out is to try to give weakly annotated (noisy) results for depth (given by some other FAST method) as the Ground truth for the method described in this paper -- just like our paper review assignment.
 
+  - [Project page: Depth Perception in the Wild ](http://www-personal.umich.edu/~wfchen/depth-in-the-wild/)
+  - [Code link -- wild nips2016](https://github.com/wfchen-umich/relative_depth)
+
+*related works to be seen*
+
 [Zoran- Learning Ordinal Relationships for Mid-Level Vision](http://www.cv-foundation.org/openaccess/content_iccv_2015/html/Zoran_Learning_Ordinal_Relationships_ICCV_2015_paper.html)
+
+[Task Specific Edge Detection -- CVPR 16](https://arxiv.org/pdf/1511.03328.pdf)
+
+[Which Edges Matter](http://www.cs.cmu.edu/~aayushb/pubs/edges.pdf)
 
 ---
 
@@ -68,3 +77,11 @@
 [Hierarchical Image Segmentation based on Observation Scale](https://hal.archives-ouvertes.fr/hal-00789387/document)
 
 [Occlusion Cues for Depth](http://download.springer.com/static/pdf/12/chp%253A10.1007%252F978-3-642-04617-9_13.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-642-04617-9_13&token2=exp=1490809990~acl=%2Fstatic%2Fpdf%2F12%2Fchp%25253A10.1007%25252F978-3-642-04617-9_13.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fchapter%252F10.1007%252F978-3-642-04617-9_13*~hmac=e0f715c8f45e18479ffa0e3197659d087d12eb0ce33cc8532763c63b9038ae55)
+
+
+---
+
+# Codes
+
+[Saxena Ng et. al](http://make3d.cs.cornell.edu/code_linux.html)
+
