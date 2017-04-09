@@ -58,6 +58,8 @@ It is
 
 
 
+Try to formalise the idea of (Gaussian) Ratios and try to include it in a loss function.
+
 
 
 
