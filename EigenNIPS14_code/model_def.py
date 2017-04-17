@@ -16,6 +16,19 @@ input_depth = 1
 lamda = 0.5;
 n = 100;
 
+def loss_function(_true, _pred):
+	_true = np.log(_true)
+	_pred = np.log(_pred)
+	first = np.subtract(_true, _pred)
+	second = np.subtract(_pred, _true)
+	first = np.square(first)
+	f_sum = np.sum(first)
+	s_sum = np.sum(second)
+	s_sum = s_sum * s_sum;
+	f_sum = f_sum/n
+	s_sum = lamda * (s_sum/(n * n))
+	return (f_sum - s_sum)
+
 
 def Construct_Coarse_Model(input_rows, input_cols, input_depth=1):  #Functional API Construction
 	
@@ -59,6 +72,42 @@ def Construct_Fine_Model(input_rows,input_cols,input_depth):
 	Fine_Model = Model([input_image_fine,feature_map_coarse],Conv3_fine)
 
 
+# takes  the model, images and their labels as inputs
+# saves the weights of the network in model.h5
+# evaluates the final score of the training
+def train(model, X_train, Y_train):
+	model.fit(X_train, Y_train, batch_size=32, epochs=20)
+	model.save_weights("model.h5", overwrite=True)
+	with open("model.json", "w") as outfile:
+		json.dump(model.to_json(), outfile)
+	score = model.evaluate(X_train, Y_train)
+	print("Score is {}\n".format(score))
+
+# takes  the model as input
+# and predicts the output for an image
+def test(model, image)
+	model.load_weights("model.h5")
+	sgd = SGD(lr=0.01)
+	model.compile(loss=loss_function, optimizer=sgd)
+	#ima = path to an input image
+	coarseOut = model.predict(image)
+	#im = Image.fromarray(coarseOut)
+	#img.save('outputs/myphoto.jpg', 'JPEG')
+	return coarseOut
+
+# processes an image before using it for training
+# takes the path of  the image as input	 
+def process_image(filename):
+	im = Image.open(filename)
+	im = im.convert('1') #convert the image to black and white
+	im = im.resize((image_cols, image_rows), PIL.Image.ANTIALIAS) # resize the image
+	im.load()
+	data = np.asarray( im, dtype="int32")
+	return data
+
+# dummy function for creating the dataset after processing each image
+def create_dataset(path)
+	# definition of function to create dataset
 
 
 
